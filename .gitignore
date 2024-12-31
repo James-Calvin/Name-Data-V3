@@ -1,0 +1,4 @@
+venv/
+output/
+intermediate/*_name*
+special_names.csv
